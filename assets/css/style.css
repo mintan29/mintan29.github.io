@@ -169,7 +169,7 @@ html {
 #slider {
     margin-top: 46.5px;
     padding-top: 50%;
-    background-image: url('/assets/img/Slider/chicago.jpg');
+    background-image: url('../img/Slider/chicago.jpg');
     background-position: top center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -183,6 +183,7 @@ bottom: 47px;
 left: 50%;
 transform: translateX(-50%);
 padding: 32px 16px;
+text-shadow: 0 0 1px #000;
 }
 
 #header-slider {
